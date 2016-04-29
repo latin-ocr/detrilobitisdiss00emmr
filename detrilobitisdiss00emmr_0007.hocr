@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./detrilobitisdiss00emmr_0007.png"; bbox 0 0 1971 3517; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 730 917 1133 991">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 730 917 1133 991">
+     <span class='ocr_line' id='line_1_1' title="bbox 730 917 1133 991; baseline 0.007 -3"><span class='ocrx_word' id='word_1_1' title='bbox 730 917 1133 991; x_wconf 84' lang='lat' dir='ltr'>VIRO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 99 1118 1749 1274">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 99 1118 1749 1274">
+     <span class='ocr_line' id='line_1_2' title="bbox 99 1118 1749 1183; baseline 0.005 -14"><span class='ocrx_word' id='word_1_2' title='bbox 99 1118 857 1181; x_wconf 74' lang='lat' dir='ltr'><strong>EXCELLENTISSIMO‚</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 930 1119 1407 1174; x_wconf 78' lang='lat' dir='ltr'>AMPLISSIMO</span> <span class='ocrx_word' id='word_1_4' title='bbox 1483 1124 1749 1183; x_wconf 73' lang='lat' dir='ltr'><strong>ATQUE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 617 1219 1711 1274; baseline 0.005 -3"><span class='ocrx_word' id='word_1_5' title='bbox 617 1221 1216 1274; x_wconf 84' lang='lat' dir='ltr'>ILLUSTRISSIMO</span> <span class='ocrx_word' id='word_1_6' title='bbox 1709 1219 1711 1222; x_wconf 62' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 526 1395 1315 1504">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 526 1395 1315 1504">
+     <span class='ocr_line' id='line_1_4' title="bbox 526 1395 1315 1504; baseline 0.006 -22"><span class='ocrx_word' id='word_1_7' title='bbox 526 1396 622 1483; x_wconf 85' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 688 1395 791 1484; x_wconf 80' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 852 1397 1315 1504; x_wconf 81' lang='lat' dir='ltr'>WEISS,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 390 1655 1457 1740">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 390 1655 1457 1740">
+     <span class='ocr_line' id='line_1_5' title="bbox 390 1655 1457 1740; baseline 0.005 -34"><span class='ocrx_word' id='word_1_10' title='bbox 390 1661 487 1707; x_wconf 82' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 527 1659 829 1707; x_wconf 76' lang='lat' dir='ltr'><strong>elNEREs</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 865 1660 1094 1717; x_wconf 78' lang='lat' dir='ltr'>USQUE</span> <span class='ocrx_word' id='word_1_13' title='bbox 1131 1655 1457 1740; x_wconf 58' lang='lat' dir='ltr'>copENDo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 464 1922 1380 2005">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 464 1922 1380 2005">
+     <span class='ocr_line' id='line_1_6' title="bbox 464 1922 1380 2005; baseline 0.003 -21"><span class='ocrx_word' id='word_1_14' title='bbox 464 1922 753 1985; x_wconf 79' lang='lat' dir='ltr'>FAUTO&#39;Rl</span> <span class='ocrx_word' id='word_1_15' title='bbox 791 1932 1013 2005; x_wconf 71' lang='lat' dir='ltr'><strong>ATQUE</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1061 1935 1380 1987; x_wconf 86' lang='lat' dir='ltr'>PATRONO</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
